@@ -1,4 +1,6 @@
-# 👋 Hello, I'm Brodie!
+# 👋 Hello, I'm Brodie
+<a href="https://www.linkedin.com/in/brodie-sharpe-463349196/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 ### IT Auditor | GRC Consultant | Cybersecurity Specialist
 
 ![Header](https://example.com/your-header-image.png)
