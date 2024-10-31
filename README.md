@@ -3,19 +3,20 @@
 
 ### IT Auditor | GRC Consultant | Cybersecurity Specialist
 
-![Header]()
-
 Welcome to my GitHub profile! With extensive experience in IT auditing, cybersecurity risk management, and compliance frameworks, I bring a comprehensive approach to assessing and improving security across various domains. Whether through scripting, cloud security, or regulatory compliance, my work focuses on fortifying organizational resilience.
 
 ---
 
-## 🛠 Skills and Expertise
+## Skills
 
-### 🔐 Cybersecurity and Compliance
-- **Cybersecurity Risk Management**
-- **Frameworks and Standards**: ISO 27001, PCI-DSS, SOX, GDPR, HIPAA, CCPA, CIS Controls
-- **GRC Tools**: Archer, Galvanize, ACL, ServiceNow GRC
-- **Data Privacy**: GDPR, CCPA, HIPAA
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ### 💻 Technical Proficiencies
 - **Languages**: Python, SQL, Bash, PowerShell
