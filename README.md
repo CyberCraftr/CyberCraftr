@@ -3,7 +3,7 @@
 
 ### IT Auditor | GRC Consultant | Cybersecurity Specialist
 
-![Header](https://example.com/your-header-image.png)
+![Header]()
 
 Welcome to my GitHub profile! With extensive experience in IT auditing, cybersecurity risk management, and compliance frameworks, I bring a comprehensive approach to assessing and improving security across various domains. Whether through scripting, cloud security, or regulatory compliance, my work focuses on fortifying organizational resilience.
 
@@ -36,10 +36,15 @@ Welcome to my GitHub profile! With extensive experience in IT auditing, cybersec
 
 ---
 
-## 🏆 Certifications
-- **CISM** - Certified Information Security Manager
-- **CISSP** - Certified Information Systems Security Professional
-- **CISA** - Certified Information Systems Auditor
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-CISM-006400?&style=for-the-badge&logo=ISACA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CISSP-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-CISA-FF0000?&style=for-the-badge&logo=ISACA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+</div>
 
 ---
 
