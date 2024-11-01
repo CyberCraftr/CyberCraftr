@@ -24,13 +24,24 @@ Welcome to my GitHub profile! With extensive experience in IT auditing, cybersec
 
 
 ## Tools
+⛊ IDS/IPS
 
 ### Frameworks & Standards 
+⛊ NIST SP 800-53,NIST 800-171 , GDPR (General Data Protection Regulation),PCI DSS (Payment Card Industry Data Security Standard) 
+ITIL (Information Technology Infrastructure Library),COSO ERM, Essential Eight  
+⛊ ISO 27001, 
+
+### OS 
+<div>
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-GCP-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+  
+</div>
 
 
-
-
-
+### Network Protocols 
+TCP/IP, DNS, DHCP, QOS, BGP, OSPF, MPLS
 
 ### Network
 <div>
@@ -83,6 +94,10 @@ Welcome to my GitHub profile! With extensive experience in IT auditing, cybersec
 <img src="https://img.shields.io/badge/-CISSP-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-CISA-FF0000?&style=for-the-badge&logo=ISACA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CEH-5A5A5A?&style=for-the-badge&logo=hackaday&logoColor=white" />
+<img src="https://img.shields.io/badge/-CRISC-FF9A00?&style=for-the-badge&logo=security&logoColor=white" />
+
+
 
 </div>
 
