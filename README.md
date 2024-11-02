@@ -28,14 +28,13 @@ Welcome to my GitHub profile! With extensive experience in IT auditing, cybersec
 
 ### Frameworks & Standards 
 ⛊ NIST SP 800-53,NIST 800-171 , GDPR (General Data Protection Regulation),PCI DSS (Payment Card Industry Data Security Standard) 
-ITIL (Information Technology Infrastructure Library),COSO ERM, Essential Eight  
+SOC2, ITIL (Information Technology Infrastructure Library),COSO ERM, Essential Eight  
 ⛊ ISO 27001, 
 
 ### OS 
 <div>
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-GCP-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
   
 </div>
 
