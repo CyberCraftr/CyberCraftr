@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Brodie
 <a href="https://www.linkedin.com/in/brodie-sharpe-463349196/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### IT Auditor | GRC Consultant | Cybersecurity Specialist
+### Cybersecurity GRC | Internal Security Auditing | Risk & Compliance 
 
 Welcome to my GitHub profile! With extensive experience in IT auditing, cybersecurity risk management, and compliance frameworks, I bring a comprehensive approach to assessing and improving security across various domains. Whether through scripting, cloud security, or regulatory compliance, my work focuses on fortifying organizational resilience.
 
