@@ -148,16 +148,13 @@ TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs, NAT, Syslog, BGP, OSPF, MPLS
 
 ### SIEM & Security Monitoring
 
-<div style="display: flex; gap: 12px; flex-wrap: wrap;">
-
-  <img src="SENTINEL_IMAGE_URL" width="180" />
-  <img src="SPLUNK_IMAGE_URL" width="180" />
-  <img src="QRADAR_IMAGE_URL" width="180" />
-  <img src="ELASTIC_IMAGE_URL" width="180" />
-  <img src="LOGRHYTHM_IMAGE_URL" width="180" />
-
-</div>
-
+<p align="center">
+  <img src="SENTINEL_IMAGE_URL" width="140"/>
+  <img src="SPLUNK_IMAGE_URL" width="140"/>
+  <img src="QRADAR_IMAGE_URL" width="140"/>
+  <img src="ELASTIC_IMAGE_URL" width="140"/>
+  <img src="LOGRHYTHM_IMAGE_URL" width="140"/>
+</p>
 
 
 
