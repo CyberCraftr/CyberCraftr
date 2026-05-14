@@ -100,7 +100,7 @@ TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs, NAT, Syslog, BGP, OSPF, MPLS
 ### Languages
 <div>
     <img src="https://img.shields.io/badge/-Python-4B275F?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-0078D4?&style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
 
