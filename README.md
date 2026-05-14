@@ -20,20 +20,36 @@ My projects combine cybersecurity governance, security operations, automation, a
 
 ---
 
-## Skills
+## Security Projects & Practical Experience
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+SIEM Log Analysis & Security Monitoring (Sentinel Lab)
+
+• Objective: Analyse security logs and identify suspicious activity patterns
+• Tools used: Microsoft Sentinel, log datasets
+• What was analysed: Authentication logs, endpoint alerts, network events
+• Outcome: Identified abnormal login patterns and alert escalation workflow
+• GRC relevance: Demonstrates log evidence review and security monitoring controls aligned with ISO 27001
+
+──────────────────────────────
+
+Network Traffic Analysis (Wireshark Lab)
+
+• Objective: Investigate network traffic behaviour and identify anomalies
+• Tools used: Wireshark
+• What was analysed: DNS, HTTP/S, TCP sessions
+• Outcome: Identified unusual traffic patterns and protocol usage
+• GRC relevance: Supports understanding of network monitoring and evidence collection for audits
+
+──────────────────────────────
+
+Incident Response Workflow Simulation
+
+• Objective: Understand incident lifecycle from detection to resolution
+• Tools used: TheHive, case management concepts
+• What was analysed: Security event escalation process
+• Outcome: Documented incident response steps and classification process
+• GRC relevance: Aligns with ISO 27001 incident management requirements
+
 
 
 ## Tools & Technologies
