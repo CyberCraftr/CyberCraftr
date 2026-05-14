@@ -52,8 +52,8 @@ SOC2, ITIL (Information Technology Infrastructure Library),COSO ERM, Essential E
 </div>
 
 
-### Network Protocols 
-TCP/IP, DNS, DHCP, QOS, BGP, OSPF, MPLS
+### Network Protocols
+TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs, NAT, Syslog, BGP, OSPF, MPLS
 
 ### Network
 <div>
