@@ -21,17 +21,8 @@ My projects combine cybersecurity governance, security operations, automation, a
 
 
 ---
-## Skills 
+### Skills 
 ## Security Projects & Practical Experience
-
-| Projects | Skills/Knowledge Gained |
-| --- | --- |
-| 1 - Conduct a security audit | INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad |
-| 2 - Network Security | TCP/IP model, Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks |
-| 3 - Tcpdump & Wireshark | Packet Analyzer |
-| 4 -  IDS & SIEM | Intrusion Detection System (IDS): Suricata, Security Information and Event Management (SIEM): Chronicle, Splunk |
-
-### Skills
 
 | Projects | Skills / Knowledge Gained |
 | --- | --- |
