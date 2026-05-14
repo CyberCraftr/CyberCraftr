@@ -36,8 +36,25 @@ My projects combine cybersecurity governance, security operations, automation, a
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
-## Tools
-⛊ IDS/IPS
+## Tools & Technologies
+
+Security Monitoring & SIEM:
+Microsoft Sentinel, Splunk, ELK Stack
+
+Network Security & IDS/IPS:
+Snort, Suricata, Zeek, Wireshark, Nmap
+
+Identity & Access Management:
+Active Directory, Azure AD (Entra ID), IAM Concepts
+
+Networking Tools:
+Cisco IOS, NetFlow, Packet Analysis Tools
+
+Cloud Security:
+Azure Security Center, AWS Security Hub
+
+GRC & Audit Tools:
+Risk Registers, ISO 27001 Frameworks, Security Audit Tools
 
 ### Frameworks & Standards 
 ⛊ NIST SP 800-53,NIST 800-171 , GDPR (General Data Protection Regulation),PCI DSS (Payment Card Industry Data Security Standard) 
