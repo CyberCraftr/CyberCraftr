@@ -56,10 +56,28 @@ Azure Security Center, AWS Security Hub
 GRC & Audit Tools:
 Risk Registers, ISO 27001 Frameworks, Security Audit Tools
 
-### Frameworks & Standards 
-⛊ NIST SP 800-53,NIST 800-171 , GDPR (General Data Protection Regulation),PCI DSS (Payment Card Industry Data Security Standard) 
-SOC2, ITIL (Information Technology Infrastructure Library),COSO ERM, Essential Eight  
-⛊ ISO 27001, 
+### Frameworks & Standards
+
+Information Security & Risk Management:
+⛊ ISO 27001 / ISO 27002
+⛊ NIST Cybersecurity Framework (CSF)
+⛊ NIST SP 800-53
+⛊ NIST SP 800-171
+
+Australian Cybersecurity Standards:
+⛊ ACSC Essential Eight
+
+Risk & Governance:
+⛊ COSO ERM
+⛊ ITIL (Information Technology Infrastructure Library)
+
+Compliance & Data Protection:
+⛊ PCI DSS
+⛊ SOC 2
+⛊ GDPR (General Data Protection Regulation)
+
+Governance Alignment:
+⛊ Risk Management, Control Mapping, Security Assurance, Audit & Compliance Assessment
 
 ### OS 
 <div>
