@@ -24,6 +24,12 @@ My projects combine cybersecurity governance, security operations, automation, a
 
 ## Security Projects & Practical Experience
 
+| Projects | Skills/Knowledge Gained |
+| --- | --- |
+| 1 - Conduct a security 
+audit | INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad |
+| git diff | Show file differences that haven't been staged |
+
 ⛊ SIEM Log Analysis & Security Monitoring (Microsoft Sentinel)
 → github.com/yourname/siem-log-analysis
 
