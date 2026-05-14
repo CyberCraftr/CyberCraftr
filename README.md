@@ -31,6 +31,15 @@ My projects combine cybersecurity governance, security operations, automation, a
 | 3 - Tcpdump & Wireshark | Packet Analyzer |
 | 4 -  IDS & SIEM | Intrusion Detection System (IDS): Suricata, Security Information and Event Management (SIEM): Chronicle, Splunk |
 
+### Skills
+
+| Projects | Skills / Knowledge Gained |
+| --- | --- |
+| 1 - Security Audit | <img src="https://img.shields.io/badge/NIST-CSF-blue" /> <img src="https://img.shields.io/badge/Risk-Management-orange" /> <img src="https://img.shields.io/badge/Incident-Response-lightgrey" /> |
+| 2 - Network Security | <img src="https://img.shields.io/badge/TCP/IP-blue" /> <img src="https://img.shields.io/badge/Cloud-Networks-green" /> <img src="https://img.shields.io/badge/Security-Hardening-red" /> |
+| 3 - Wireshark / tcpdump | <img src="https://img.shields.io/badge/Packet-Analysis-purple" /> |
+| 4 - IDS & SIEM | <img src="https://img.shields.io/badge/Splunk-black" /> <img src="https://img.shields.io/badge/Suricata-orange" /> <img src="https://img.shields.io/badge/SIEM-blue" /> |
+
 ⛊ SIEM Log Analysis & Security Monitoring (Microsoft Sentinel)
 → github.com/yourname/siem-log-analysis
 
