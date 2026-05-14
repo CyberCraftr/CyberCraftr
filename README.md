@@ -130,13 +130,6 @@ TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs, NAT, Syslog, BGP, OSPF, MPLS
 </div>
 
 ### SIEM & Security Monitoring
-
-⛊ Microsoft Sentinel
-⛊ Splunk
-⛊ IBM QRadar
-⛊ Elastic Stack (ELK)
-⛊ LogRhythm
-
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
