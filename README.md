@@ -3,9 +3,11 @@
 
 ### Cybersecurity GRC | Internal Security Auditing | Risk & Compliance
 
-Welcome to my GitHub profile. My focus areas include cybersecurity governance, risk management, internal security auditing, security operations, and compliance frameworks including ISO 27001 and NIST.
+Welcome to my GitHub profile. I bring 15 years of IT networking and infrastructure experience, with a focus on cybersecurity governance, risk management, and internal security auditing.
 
-My projects combine cybersecurity governance, security operations, automation, and technical security tooling with a focus on enterprise security practices.
+My work focuses on aligning technical environments with enterprise security frameworks such as ISO 27001 and NIST, with an emphasis on controls, compliance, and operational security assurance.
+
+My projects combine cybersecurity governance, security operations, automation, and technical security tooling, demonstrating practical application of enterprise security and audit principles.
 
 ## Certifications
 
