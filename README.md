@@ -117,7 +117,12 @@ TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs, NAT, Syslog, BGP, OSPF, MPLS
 </div>
 
 
-### Endpoint
+### Endpoint Security
+
+⛊ Microsoft Defender for Endpoint
+⛊ Windows Security (Defender Antivirus)
+⛊ Endpoint Hardening Concepts
+⛊ Velociraptor (DFIR / Threat Hunting – Exposure) 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
