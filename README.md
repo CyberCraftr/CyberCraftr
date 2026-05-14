@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Brodie
 <a href="https://www.linkedin.com/in/brodie-sharpe-463349196/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### Cybersecurity GRC • Internal Security Auditing • ISO 27001 • Risk & Compliance
+### Cybersecurity GRC | Internal Security Auditing | Risk & Compliance
 
-Focused on cybersecurity governance, internal security auditing, and enterprise risk & compliance practices.
+Welcome to my GitHub profile. My focus areas include cybersecurity governance, risk management, internal security auditing, security operations, and compliance frameworks including ISO 27001 and NIST.
 
-Background in IT networking and infrastructure with practical interest in ISO 27001, security assurance, governance frameworks, risk assessment, and security controls.
+My projects combine cybersecurity governance, security operations, automation, and technical security tooling with a focus on enterprise security practices.
 
 ---
 
