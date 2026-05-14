@@ -144,14 +144,7 @@ TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs, NAT, Syslog, BGP, OSPF, MPLS
   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
   <img src="https://img.shields.io/badge/-SolarWinds_Security_Event_Manager-FF9A00?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
  <img src="https://img.shields.io/badge/-LogRhythm_SIEM-0072C6?&style=for-the-badge&logo=LogRhythm&logoColor=white" />
-
-Note: 
-Elastic Stack (often called ELK) is a set of tools used to collect, search, analyse, and visualise logs and security data.
-
-ELK stands for:
-E = Elasticsearch (stores and searches data)
-L = Logstash (collects and processes logs)
-K = Kibana (dashboards and visualisation)
+ELK Stack (Elastic): Log analytics and security monitoring platform used for log collection, search, and dashboard visualisation.
 
 </div>
 
