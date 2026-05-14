@@ -21,7 +21,7 @@ My projects combine cybersecurity governance, security operations, automation, a
 
 
 ---
-
+## Skills 
 ## Security Projects & Practical Experience
 
 | Projects | Skills/Knowledge Gained |
