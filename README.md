@@ -115,7 +115,7 @@ TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs, NAT, Syslog, BGP, OSPF, MPLS
 
 </div>
 
-### Cloud ☁️
+### Cloud 
 <div>
     <img src="https://img.shields.io/badge/-Azure-00A4EF?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
