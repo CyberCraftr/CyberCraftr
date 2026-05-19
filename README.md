@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Brodie
 <a href="https://www.linkedin.com/in/brodie-sharpe-463349196/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### Cybersecurity GRC | Internal Security Auditing | Risk & Compliance
+### Cyber Security GRC | Internal Security Auditing | Risk & Compliance
 
 Welcome to my GitHub profile. I bring 15 years of IT networking and infrastructure experience, with a focus on cybersecurity governance, risk management, and internal security auditing.
 
