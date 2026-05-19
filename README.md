@@ -66,11 +66,11 @@ Risk Registers, ISO 27001 Frameworks, Security Audit Tools
 
 Information Security & Risk Management:
 ⛊ ISO 27001 / ISO 27002
-⛊ NIST Cybersecurity Framework (CSF)
+⛊ NIST Cyber Security Framework (CSF)
 ⛊ NIST SP 800-53
 ⛊ NIST SP 800-171
 
-Australian Cybersecurity Standards:
+Australian Cyber Security Standards:
 ⛊ ACSC Essential Eight
 
 Risk & Governance:
