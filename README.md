@@ -3,11 +3,11 @@
 
 ### Cyber Security GRC | Internal Security Auditing | Risk & Compliance
 
-Welcome to my GitHub profile. I bring 15 years of IT networking and infrastructure experience, with a focus on cybersecurity governance, risk management, and internal security auditing.
+Welcome to my GitHub profile. I bring 15 years of IT networking and infrastructure experience, with a focus on cyber security governance, risk management, and internal security auditing.
 
 My work focuses on aligning technical environments with enterprise security frameworks such as ISO 27001 and NIST, with an emphasis on controls, compliance, and operational security assurance.
 
-My projects combine cybersecurity governance, security operations, automation, and technical security tooling, demonstrating practical application of enterprise security and audit principles.
+My projects combine cyber security governance, security operations, automation, and technical security tooling, demonstrating practical application of enterprise security and audit principles.
 
 ## Certifications
 
