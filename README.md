@@ -3,11 +3,13 @@
 
 ### Cyber Security GRC | Internal Security Auditing | Risk & Compliance
 
-Welcome to my GitHub profile. I bring 15 years of IT networking and infrastructure experience, with a focus on cyber security governance, risk management, and internal security auditing.
+Cyber Security GRC and infrastructure professional with 15+ years’ experience across enterprise IT operations, security controls, and operational assurance.
 
-My work focuses on aligning technical environments with enterprise security frameworks such as ISO 27001 and NIST, with an emphasis on controls, compliance, and operational security assurance.
+My niche area within cyber security is Internal Security Auditing and Risk Assurance, with a focus on evaluating control effectiveness, improving operational security maturity, and supporting governance and compliance objectives across enterprise environments.
 
-My projects combine cyber security governance, security operations, automation, and technical security tooling, demonstrating practical application of enterprise security and audit principles.
+This GitHub showcases practical projects across security governance, SIEM monitoring, network analysis, automation, and audit-focused security controls aligned to ISO 27001, NIST CSF, and ACSC Essential Eight frameworks.
+
+It also documents ongoing technical learning across Python, security tooling, automation, and cyber security labs to strengthen both technical and governance-focused security capability.
 
 ## Certifications
 
