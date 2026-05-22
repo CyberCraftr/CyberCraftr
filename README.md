@@ -128,16 +128,15 @@ Security Policy Enforcement
 
 ## 🛡️ Endpoint Security Controls & Hardening
 
-![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-0078D4?style=flat&logo=microsoftdefender&logoColor=white)
-![Windows Defender AV](https://img.shields.io/badge/Windows_Defender_AV-0078D4?style=flat&logo=windows&logoColor=white)
-![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Group Policy](https://img.shields.io/badge/Group_Policy-0078D4?style=flat&logo=windows&logoColor=white)
+![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-0078D4?style=for-the-badge&logo=microsoftdefender&logoColor=white)
+![Windows Defender AV](https://img.shields.io/badge/Windows_Defender_AV-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Group Policy](https://img.shields.io/badge/Group_Policy-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 - Microsoft Defender for Endpoint (EDR)
 - Microsoft Defender Antivirus (Baseline Protection)
 - Endpoint Hardening & Patch Management
 - Security Policy Enforcement
-
 
 
 ### SIEM & Monitoring
