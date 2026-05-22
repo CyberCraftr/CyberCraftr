@@ -116,15 +116,13 @@ TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs, NAT, Syslog, BGP, OSPF, MPLS
 </div>
 
 
-### Endpoint Security
-
-⛊ Microsoft Defender for Endpoint (EDR)
-⛊ Microsoft Defender Antivirus (Baseline Protection)
-⛊ Endpoint Security Controls (Hardening, Patch Management, Policy Enforcement)
-
+### Endpoint Security Controls & Hardening
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
+Microsoft Defender for Endpoint (EDR)
+Microsoft Defender Antivirus (Baseline Protection)
+Endpoint Hardening & Patch Management
+Security Policy Enforcement
 </div>
 
 ### SIEM & Monitoring
