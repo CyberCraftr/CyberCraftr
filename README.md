@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Brodie
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17D437&width=435&lines=Hi%2C+I'm+Brodie+)](https://git.io/typing-svg)
+
 ### Cyber Security GRC | Internal Security Auditor | Risk & Compliance
 
 I bring 15 years of hands-on IT and network infrastructure experience 
