@@ -132,6 +132,24 @@ TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs, NAT, Syslog, BGP, OSPF, MPLS
   
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
