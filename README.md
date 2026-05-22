@@ -116,10 +116,7 @@ TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs, NAT, Syslog, BGP, OSPF, MPLS
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-IBM_QRadar-1F4E79?&style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SolarWinds_Security_Event_Manager-FF9A00?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
- <img src="https://img.shields.io/badge/-LogRhythm_SIEM-0072C6?&style=for-the-badge&logo=LogRhythm&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   
 </div>
