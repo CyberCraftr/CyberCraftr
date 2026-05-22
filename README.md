@@ -1,6 +1,6 @@
 # 👋 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17D437&repeat=false&width=435&lines=Hi%2C+I'm+Brodie+welcome+to+my+Github)](https://git.io/typing-svg)
-github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
+
 
 ### Cyber Security GRC | Internal Security Auditor | Risk & Compliance
 
