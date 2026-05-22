@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Brodie
 
-### # 👋 Hi, I'm Brodie
-
 ### Cyber Security GRC | Internal Security Auditor | Risk & Compliance
 
 I bring 15 years of hands-on IT and network infrastructure experience 
