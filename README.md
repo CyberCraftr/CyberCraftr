@@ -46,21 +46,21 @@ relevant to GRC and cyber security workflows.
 ### Skills 
 ## Security Projects & Practical Experience
 
+
+
 | Projects | Skills / Knowledge Gained |
 | --- | --- |
-| 1 - Security Audit | <img src="https://img.shields.io/badge/NIST-CSF-blue" /> <img src="https://img.shields.io/badge/Risk-Management-orange" /> <img src="https://img.shields.io/badge/Incident-Response-lightgrey" /> |
-| 2 - Network Security | <img src="https://img.shields.io/badge/TCP/IP-blue" /> <img src="https://img.shields.io/badge/Cloud-Networks-green" /> <img src="https://img.shields.io/badge/Security-Hardening-red" /> |
-| 3 - Wireshark / tcpdump | <img src="https://img.shields.io/badge/Packet-Analysis-purple" /> |
-| 4 - IDS & SIEM | <img src="https://img.shields.io/badge/Splunk-black" /> <img src="https://img.shields.io/badge/Suricata-orange" /> <img src="https://img.shields.io/badge/SIEM-blue" /> |
-
-⛊ SIEM Log Analysis & Security Monitoring (Microsoft Sentinel)
-→ github.com/yourname/siem-log-analysis
-
-⛊ Network Traffic Analysis (Wireshark)
-→ github.com/yourname/wireshark-analysis
-
-⛊ Incident Response Workflow Simulation (TheHive)
-→ github.com/yourname/incident-response-simulation
+| 1 - Internal Security Audit Simulation | End-to-end internal audit lifecycle — scoping, planning, control testing, evidence collection, gap analysis, findings reporting and remediation tracking. Aligned to ISO 27001:2022 and ACSC Essential Eight |
+| 2 - Essential Eight Maturity Assessment Toolkit | Assessing all 8 controls across Maturity Level 1, 2 and 3 using structured templates, evidence checklists and control testing workpapers. Aligned to ACSC Essential Eight and ISM |
+| 3 - WA Cyber Security Policy Compliance Checklist | Control mapping and compliance assessment against WA Government Cyber Security Policy requirements. Includes evidence collection and reporting templates |
+| 4 - ISO 27001 Audit Workpapers & Gap Analysis | Annex A control mapping, risk register development, audit evidence templates and gap analysis output. Supports ISO 27001:2022 Lead Auditor certification pathway |
+| 5 - PowerShell AD & IAM Audit Scripts | Automated Active Directory auditing — stale accounts, privileged access review, RBAC validation and MFA compliance reporting using PowerShell |
+| 6 - Microsoft Sentinel KQL Detection Rules | Custom SIEM detection rules and KQL queries for audit trail analysis, log review and threat detection mapped to ACSC Essential Eight and ISM guidance |
+| 7 - Risk Register & Treatment Plan Templates | ISO 27001 aligned risk register, risk scoring methodology, treatment plan tracking and control mapping for governance and assurance reporting |
+| 8 - SIEM Log Analysis Lab | Hands-on log analysis and security monitoring using Microsoft Sentinel and Splunk. Detections mapped to real threat scenarios and ACSC guidance |
+| 9 - Python Security Audit Automation Scripts | Python scripts automating compliance checks, including patch status, MFA enforcement and application control validation |
+| 10 - Network Traffic Analysis (Wireshark & tcpdump) | Packet capture, protocol analysis, traffic anomaly identification and network forensics using Wireshark and tcpdump |
+| 11 - Incident Response Workflow Simulation | IR process documentation covering evidence preservation, containment, escalation procedures and post-incident review |
 
 
 
