@@ -65,43 +65,17 @@ relevant to GRC and cyber security workflows.
 
 ## Tools & Technologies
 
-Security Monitoring & SIEM:
-Microsoft Sentinel, Splunk, ELK Stack
+**GRC & Audit:** ISO 27001:2022, NIST CSF 2.0, NIST SP 800-53, 
+ACSC Essential Eight, ISM, WA Cyber Security Policy, 
+CIS Controls v8, Australian Privacy Act 1988
 
-Network Security & IDS/IPS:
-Snort, Suricata, Zeek, Wireshark, Nmap
+**SIEM & Monitoring:** Microsoft Sentinel, Splunk, LogRhythm, 
+QRadar, ELK Stack, SolarWinds SEM
 
-Identity & Access Management:
-Active Directory, Azure AD (Entra ID), IAM Concepts
+**Infrastructure & Controls:** Active Directory, Azure Entra ID, 
+MFA, Microsoft Defender for Endpoint, Palo Alto, Fortinet, 
+Cisco IOS, VPN, VLANs
 
-Networking Tools:
-Cisco IOS, NetFlow, Packet Analysis Tools
-
-Cloud Security:
-Azure Security Center, AWS Security Hub
-
-GRC & Audit Tools:
-Risk Registers, ISO 27001 Frameworks, Security Audit Tools
-
-### Frameworks & Standards
-
-Information Security & Risk Management:
-⛊ ISO 27001 / ISO 27002
-⛊ NIST Cyber Security Framework (CSF)
-⛊ NIST SP 800-53
-⛊ NIST SP 800-171
-
-Australian Cyber Security Standards:
-⛊ ACSC Essential Eight
-
-Risk & Governance:
-
-
-Compliance & Data Protection:
-
-
-Governance Alignment:
-⛊ Risk Management, Control Mapping, Security Assurance, Audit & Compliance Assessment
 
 ### OS 
 <div>
