@@ -121,8 +121,7 @@ TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs, NAT, Syslog, BGP, OSPF, MPLS
 ![Windows Defender AV](https://img.shields.io/badge/Windows_Defender_AV-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Group Policy](https://img.shields.io/badge/Group_Policy-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-- Endpoint Hardening & Patch Management
-- Security Policy Enforcement
+
 
 
 ### SIEM & Monitoring
