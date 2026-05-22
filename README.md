@@ -80,8 +80,6 @@ Risk & Governance:
 ⛊ ITIL (Information Technology Infrastructure Library)
 
 Compliance & Data Protection:
-⛊ PCI DSS
-⛊ SOC 2
 ⛊ GDPR (General Data Protection Regulation)
 
 Governance Alignment:
