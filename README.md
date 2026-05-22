@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Brodie
 
+### # 👋 Hi, I'm Brodie
+
 ### Cyber Security GRC | Internal Security Auditor | Risk & Compliance
 
 I bring 15 years of hands-on IT and network infrastructure experience 
@@ -24,6 +26,10 @@ ISO 27001 Lead Auditor certification currently in progress.
 This GitHub documents practical audit, monitoring, automation, and 
 security projects that reflect how I work: evidence-based, 
 framework-aligned, and grounded in real enterprise environments.
+
+I also use this space to document my ongoing Python learning journey, 
+with a focus on security automation, audit scripting, and tooling 
+relevant to GRC and cyber security workflows.
 
 ## Certifications
 
