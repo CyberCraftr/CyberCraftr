@@ -50,7 +50,7 @@ relevant to GRC and cyber security workflows.
 
 | Projects | Skills / Knowledge Gained |
 | --- | --- |
-| 1 - Internal Security Audit Simulation [1](https://github.com/yourusername/internal-security-audit-simulation)  | End-to-end internal audit lifecycle — scoping, planning, control testing, evidence collection, gap analysis, findings reporting and remediation tracking. Aligned to ISO 27001:2022 and ACSC Essential Eight |
+|[1](https://github.com/yourusername/internal-security-audit-simulation) Internal Security Audit Simulation  | End-to-end internal audit lifecycle — scoping, planning, control testing, evidence collection, gap analysis, findings reporting and remediation tracking. Aligned to ISO 27001:2022 and ACSC Essential Eight |
 | 2 - Essential Eight Maturity Assessment Toolkit | Assessing all 8 controls across Maturity Level 1, 2 and 3 using structured templates, evidence checklists and control testing workpapers. Aligned to ACSC Essential Eight and ISM |
 | 3 - WA Cyber Security Policy Compliance Checklist | Control mapping and compliance assessment against WA Government Cyber Security Policy requirements. Includes evidence collection and reporting templates |
 | 4 - ISO 27001 Audit Workpapers & Gap Analysis | Annex A control mapping, risk register development, audit evidence templates and gap analysis output. Supports ISO 27001:2022 Lead Auditor certification pathway |
