@@ -76,11 +76,10 @@ Australian Cyber Security Standards:
 ⛊ ACSC Essential Eight
 
 Risk & Governance:
-⛊ COSO ERM
-⛊ ITIL (Information Technology Infrastructure Library)
+
 
 Compliance & Data Protection:
-⛊ GDPR (General Data Protection Regulation)
+
 
 Governance Alignment:
 ⛊ Risk Management, Control Mapping, Security Assurance, Audit & Compliance Assessment
