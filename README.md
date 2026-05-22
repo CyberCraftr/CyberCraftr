@@ -69,9 +69,6 @@ relevant to GRC and cyber security workflows.
 ACSC Essential Eight, ISM, WA Cyber Security Policy, 
 CIS Controls v8, Australian Privacy Act 1988
 
-**SIEM & Monitoring:** Microsoft Sentinel, Splunk, LogRhythm, 
-QRadar, ELK Stack, SolarWinds SEM
-
 **Infrastructure & Controls:** Active Directory, Azure Entra ID, 
 MFA, Microsoft Defender for Endpoint, Palo Alto, Fortinet, 
 Cisco IOS, VPN, VLANs
