@@ -1,15 +1,29 @@
-# 👋 Hello, I'm Brodie
-<a href="https://www.linkedin.com/in/brodie-sharpe-463349196/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👋 Hi, I'm Brodie
 
-### Cyber Security GRC | Internal Security Auditing | Risk & Compliance
+### Cyber Security GRC | Internal Security Auditor | Risk & Compliance
 
-Cyber Security GRC and infrastructure professional with 15+ years’ experience across enterprise IT operations, security controls, and operational assurance.
+I bring 15 years of hands-on IT and network infrastructure experience 
+into the GRC space — which means I audit controls I have actually built 
+and operated.
 
-My niche area within cyber security is Internal Security Auditing and Risk Assurance, with a focus on evaluating control effectiveness, improving operational security maturity, and supporting governance and compliance objectives across enterprise environments.
+My niche is **internal security auditing and risk assurance**: evaluating 
+whether security controls work in practice, not just on paper. I bridge 
+the gap between technical teams and governance, with direct experience 
+delivering security assurance across **WA Government and private sector 
+environments**.
 
-This GitHub showcases practical projects across security governance, SIEM monitoring, network analysis, automation, and audit-focused security controls aligned to ISO 27001, NIST CSF, and ACSC Essential Eight frameworks.
+I specialise in:
+- Control effectiveness testing and security maturity assessments
+- ACSC Essential Eight (ML1–ML3) and ISM alignment
+- ISO 27001:2022 audit and gap analysis
+- WA Cyber Security Policy and Australian Privacy Act compliance
+- SIEM log review, audit evidence collection, and findings reporting
 
-It also documents ongoing technical learning across Python, security tooling, automation, and cyber security labs to strengthen both technical and governance-focused security capability.
+ISO 27001 Lead Auditor certification currently in progress.
+
+This GitHub documents practical audit, monitoring, automation, and 
+security projects that reflect how I work: evidence-based, 
+framework-aligned, and grounded in real enterprise environments.
 
 ## Certifications
 
