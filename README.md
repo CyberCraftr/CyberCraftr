@@ -41,28 +41,6 @@ relevant to GRC and cyber security workflows.
 <img src="https://img.shields.io/badge/-CEH-5A5A5A?&style=for-the-badge&logo=hackaday&logoColor=white" />
 <img src="https://img.shields.io/badge/-CRISC-FF9A00?&style=for-the-badge&logo=security&logoColor=white" />
 
-
----
-### Skills 
-## Security Projects & Practical Experience
-
-
-
-| Projects | Skills / Knowledge Gained |
-| --- | --- |
-|[1](https://github.com/CyberCraftr/internal-security-audit-simulation) Internal Security Audit Simulation  | End-to-end internal audit lifecycle — scoping, planning, control testing, evidence collection, gap analysis, findings reporting and remediation tracking. Aligned to ISO 27001:2022 and ACSC Essential Eight |
-|[2](https://github.com/CyberCraftr/essential-eight-maturity-assessment) Essential Eight Maturity Assessment Toolkit | Assessing all 8 controls across Maturity Level 1, 2 and 3 using structured templates, evidence checklists and control testing workpapers. Aligned to ACSC Essential Eight and ISM |
-|[3](https://github.com/CyberCraftr/wa-cyber-security-policy-compliance) WA Cyber Security Policy Compliance Checklist | Control mapping and compliance assessment against WA Government Cyber Security Policy requirements. Includes evidence collection and reporting templates |
-|[4](https://github.com/CyberCraftr/iso27001-audit-workpapers-gap-analysis) ISO 27001 Audit Workpapers & Gap Analysis | Annex A control mapping, risk register development, audit evidence templates and gap analysis output. Supports ISO 27001:2022 Lead Auditor certification pathway |
-|[5](https://github.com/CyberCraftr/powershell-ad-iam-audit-scripts) PowerShell AD & IAM Audit Scripts | Automated Active Directory auditing — stale accounts, privileged access review, RBAC validation and MFA compliance reporting using PowerShell |
-|[6](https://github.com/CyberCraftr/sentinel-kql-detection-rules) Microsoft Sentinel KQL Detection Rules | Custom SIEM detection rules and KQL queries for audit trail analysis, log review and threat detection mapped to ACSC Essential Eight and ISM guidance |
-|[7](https://github.com/CyberCraftr/risk-register-treatment-plan-templates) Risk Register & Treatment Plan Templates | ISO 27001 aligned risk register, risk scoring methodology, treatment plan tracking and control mapping for governance and assurance reporting |
-|[8](https://github.com/CyberCraftr/siem-log-analysis-lab) SIEM Log Analysis Lab | Hands-on log analysis and security monitoring using Microsoft Sentinel and Splunk. Detections mapped to real threat scenarios and ACSC guidance |
-|[9](https://github.com/CyberCraftr/python-security-audit-automation) Python Security Audit Automation Scripts | Python scripts automating compliance checks, including patch status, MFA enforcement and application control validation |
-|[10](https://github.com/CyberCraftr/network-traffic-analysis-wireshark) Network Traffic Analysis (Wireshark & tcpdump) | Packet capture, protocol analysis, traffic anomaly identification and network forensics using Wireshark and tcpdump |
-|[11](https://github.com/CyberCraftr/incident-response-workflow-simulation) Incident Response Workflow Simulation | IR process documentation covering evidence preservation, containment, escalation procedures and post-incident review |
-
-
 ## Tools & Technologies
 
 **GRC & Audit:** ISO 27001:2022, NIST CSF 2.0, NIST SP 800-53, 
@@ -122,6 +100,33 @@ TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs, NAT, Syslog, BGP, OSPF, MPLS
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   
 </div>
+
+
+
+
+
+---
+### Skills 
+## Security Projects & Practical Experience
+
+
+
+| Projects | Skills / Knowledge Gained |
+| --- | --- |
+|[1](https://github.com/CyberCraftr/internal-security-audit-simulation) Internal Security Audit Simulation  | End-to-end internal audit lifecycle — scoping, planning, control testing, evidence collection, gap analysis, findings reporting and remediation tracking. Aligned to ISO 27001:2022 and ACSC Essential Eight |
+|[2](https://github.com/CyberCraftr/essential-eight-maturity-assessment) Essential Eight Maturity Assessment Toolkit | Assessing all 8 controls across Maturity Level 1, 2 and 3 using structured templates, evidence checklists and control testing workpapers. Aligned to ACSC Essential Eight and ISM |
+|[3](https://github.com/CyberCraftr/wa-cyber-security-policy-compliance) WA Cyber Security Policy Compliance Checklist | Control mapping and compliance assessment against WA Government Cyber Security Policy requirements. Includes evidence collection and reporting templates |
+|[4](https://github.com/CyberCraftr/iso27001-audit-workpapers-gap-analysis) ISO 27001 Audit Workpapers & Gap Analysis | Annex A control mapping, risk register development, audit evidence templates and gap analysis output. Supports ISO 27001:2022 Lead Auditor certification pathway |
+|[5](https://github.com/CyberCraftr/powershell-ad-iam-audit-scripts) PowerShell AD & IAM Audit Scripts | Automated Active Directory auditing — stale accounts, privileged access review, RBAC validation and MFA compliance reporting using PowerShell |
+|[6](https://github.com/CyberCraftr/sentinel-kql-detection-rules) Microsoft Sentinel KQL Detection Rules | Custom SIEM detection rules and KQL queries for audit trail analysis, log review and threat detection mapped to ACSC Essential Eight and ISM guidance |
+|[7](https://github.com/CyberCraftr/risk-register-treatment-plan-templates) Risk Register & Treatment Plan Templates | ISO 27001 aligned risk register, risk scoring methodology, treatment plan tracking and control mapping for governance and assurance reporting |
+|[8](https://github.com/CyberCraftr/siem-log-analysis-lab) SIEM Log Analysis Lab | Hands-on log analysis and security monitoring using Microsoft Sentinel and Splunk. Detections mapped to real threat scenarios and ACSC guidance |
+|[9](https://github.com/CyberCraftr/python-security-audit-automation) Python Security Audit Automation Scripts | Python scripts automating compliance checks, including patch status, MFA enforcement and application control validation |
+|[10](https://github.com/CyberCraftr/network-traffic-analysis-wireshark) Network Traffic Analysis (Wireshark & tcpdump) | Packet capture, protocol analysis, traffic anomaly identification and network forensics using Wireshark and tcpdump |
+|[11](https://github.com/CyberCraftr/incident-response-workflow-simulation) Incident Response Workflow Simulation | IR process documentation covering evidence preservation, containment, escalation procedures and post-incident review |
+
+
+
 
 
 
