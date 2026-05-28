@@ -39,7 +39,7 @@ relevant to GRC and cyber security workflows.
 <img src="https://img.shields.io/badge/-CISA-FF0000?&style=for-the-badge&logo=ISACA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CEH-5A5A5A?&style=for-the-badge&logo=hackaday&logoColor=white" />
-<img src="https://img.shields.io/badge/-CRISC-FF9A00?&style=for-the-badge&logo=security&logoColor=white" />
+
 
 ## Tools & Technologies
 
