@@ -134,6 +134,10 @@ TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs, NAT, Syslog, BGP, OSPF, MPLS
 |[9](https://github.com/CyberCraftr/python-security-audit-automation) Python Security Audit Automation Scripts | Python scripts automating compliance checks, including patch status, MFA enforcement and application control validation |
 |[10](https://github.com/CyberCraftr/network-traffic-analysis-wireshark) Network Traffic Analysis (Wireshark & tcpdump) | Packet capture, protocol analysis, traffic anomaly identification and network forensics using Wireshark and tcpdump |
 |[11](https://github.com/CyberCraftr/incident-response-workflow-simulation) Incident Response Workflow Simulation | IR process documentation covering evidence preservation, containment, escalation procedures and post-incident review |
+|[12](https://github.com/CyberCraftr/IRAP) Readiness Assessment Toolkit - ISM control mapping | Evidence requirements | Gap analysis methodology | Security assessment reporting | Control implementation verification 
+
+
+
 
 
 
