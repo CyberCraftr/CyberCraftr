@@ -99,9 +99,21 @@ TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, VPN, VLANs, NAT, Syslog, BGP, OSPF, MPLS
   
 </div>
 
+</div>
+### Security Frameworks & Assurance Methodologies
+- ISO 27001:2022
+- ACSC Essential Eight
+- ISM
+- NIST CSF 2.0
+- NIST SP 800-53
+- CIS Controls v8
+- COBIT
+-WA Cyber Security Policy
+- Australian Privacy Act
+- IRAP Readiness Concepts
 
 
-
+</div>
 
 ---
 ### Skills 
