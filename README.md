@@ -16,7 +16,7 @@ environments**.
 
 I specialise in:
 - Control effectiveness testing and security maturity assessments
-- ACSC Essential Eight (ML1–ML3) and ISM alignment
+- ACSC Essential Eight (ML1–ML3), ISM alignment, and IRAP readiness assessment support
 - ISO 27001:2022 audit and gap analysis
 - WA Cyber Security Policy and Australian Privacy Act compliance
 - SIEM log review, audit evidence collection, and findings reporting
@@ -43,9 +43,7 @@ relevant to GRC and cyber security workflows.
 
 ## Tools & Technologies
 
-**GRC & Audit:** ISO 27001:2022, NIST CSF 2.0, NIST SP 800-53, 
-ACSC Essential Eight, ISM, WA Cyber Security Policy, 
-CIS Controls v8, Australian Privacy Act 1988
+**GRC & Audit:** ISO 27001:2022, NIST CSF 2.0, NIST SP 800-53, ACSC Essential Eight, ISM, IRAP methodology and readiness concepts, WA Cyber Security Policy, CIS Controls v8, Australian Privacy Act 1988
 
 **Infrastructure & Controls:** Active Directory, Azure Entra ID, 
 MFA, Microsoft Defender for Endpoint, Palo Alto, Fortinet, 
